@@ -41,7 +41,7 @@ THEN I should have proper build scripts for a webpack application
 - [Features](#features)
 
 ## Installation
-This application does not require installation. Simply [click here and the deployed application will begin]() 
+This application does not require installation. Simply [click here and the deployed application will begin](https://tajdinov-text-editor.herokuapp.com/) 
 
 ## Usage
 
